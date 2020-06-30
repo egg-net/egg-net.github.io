@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="11.5" viewBox="0 0 14 11.5">
+  <defs>
+    <clipPath id="clip-cloud">
+      <rect width="14" height="11.5"/>
+    </clipPath>
+  </defs>
+  <g id="cloud" clip-path="url(#clip-cloud)">
+    <rect width="14" height="11.5" fill="#fff"/>
+    <path id="stakenet" d="M9.1,5.794,11.025,8.6l-.613-.7L8.225,5.794,13.387.615,14,0ZM7,4.477,4.725,2.282,4.2,1.756,7,3.6,9.8,1.756l-.613.615Zm-6.475,6.5L0,11.5,4.9,5.706,2.975,2.985l.612.615L5.775,5.794ZM7,7.023,9.188,9.218l.525.527L7,7.9,4.2,9.832l.612-.615Z" fill="#4169ff" fill-rule="evenodd"/>
+  </g>
+</svg>

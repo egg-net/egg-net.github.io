@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/1 stroke/16px/icons/download_save</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,24 L27,24 L27,13.5 C27,13.2241424 26.7758576,13 26.5,13 L24.5,13 C24.2238576,13 24,12.7761424 24,12.5 C24,12.2238576 24.2238576,12 24.5,12 L26.5,12 C27.3281424,12 28,12.6718576 28,13.5 L28,26.5 C28,27.3281424 27.3281424,28 26.5,28 L13.5,28 C12.6718576,28 12,27.3281424 12,26.5 L12,13.5 C12,12.6718576 12.6718576,12 13.5,12 L15.5,12 C15.7761424,12 16,12.2238576 16,12.5 C16,12.7761424 15.7761424,13 15.5,13 L13.5,13 C13.2241424,13 13,13.2241424 13,13.5 L13,24 Z M13,25 L13,26.5 C13,26.7758576 13.2241424,27 13.5,27 L26.5,27 C26.7758576,27 27,26.7758576 27,26.5 L27,25 L13,25 Z M22,17 L23.5,17 C23.9295794,17 24.1591684,17.5059609 23.8762883,17.8292523 L20.3762883,21.8292523 C20.1770827,22.0569159 19.8229173,22.0569159 19.6237117,21.8292523 L16.1237117,17.8292523 C15.8408316,17.5059609 16.0704206,17 16.5,17 L18,17 L18,12.5 C18,12.2238576 18.2238576,12 18.5,12 L21.5,12 C21.7761424,12 22,12.2238576 22,12.5 L22,17 Z M20,20.7407039 L22.3981159,18 L21.5,18 C21.2238576,18 21,17.7761424 21,17.5 L21,13 L19,13 L19,17.5 C19,17.7761424 18.7761424,18 18.5,18 L17.6018841,18 L20,20.7407039 Z" id="path-1"></path>
+    </defs>
+    <g id="Website_desktop_1240" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Documentation_whitepaper_desktop_1240-@2x" transform="translate(-672.000000, -292.000000)">
+            <g id="icons/1-stroke/16px/download_save" transform="translate(660.000000, 280.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="icons/download_save" fill="#8192DB" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Colors/primary-1-(main-elements)" mask="url(#mask-2)" fill="#4169FF" fill-rule="evenodd">
+                    <rect id="Rectangle-Copy-33" x="0" y="0" width="40" height="40"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

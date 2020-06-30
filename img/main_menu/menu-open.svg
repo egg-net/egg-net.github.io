@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/close_medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.7071068,20 L25.8535534,25.1464466 C26.0488155,25.3417088 26.0488155,25.6582912 25.8535534,25.8535534 C25.6582912,26.0488155 25.3417088,26.0488155 25.1464466,25.8535534 L20,20.7071068 L14.8535534,25.8535534 C14.6582912,26.0488155 14.3417088,26.0488155 14.1464466,25.8535534 C13.9511845,25.6582912 13.9511845,25.3417088 14.1464466,25.1464466 L19.2928932,20 L14.1464466,14.8535534 C13.9511845,14.6582912 13.9511845,14.3417088 14.1464466,14.1464466 C14.3417088,13.9511845 14.6582912,13.9511845 14.8535534,14.1464466 L20,19.2928932 L25.1464466,14.1464466 C25.3417088,13.9511845 25.6582912,13.9511845 25.8535534,14.1464466 C26.0488155,14.3417088 26.0488155,14.6582912 25.8535534,14.8535534 L20.7071068,20 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/1-stroke/16px/close_small" transform="translate(-14.000000, -14.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icons/close_medium" fill="#6672A6" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

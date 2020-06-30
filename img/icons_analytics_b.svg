@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.1 (72631) - https://sketchapp.com -->
+    <title>890AFCA4-F29B-4886-93F7-F05EA511EB67</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="18.4916263%" y1="12.4574626%" x2="79.4983082%" y2="88.0466846%" id="linearGradient-1">
+            <stop stop-color="#6CA6F9" offset="0%"></stop>
+            <stop stop-color="#2C80FF" offset="30.8706647%"></stop>
+            <stop stop-color="#2C80FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website_desktop_1240" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XSN_desktop_1240-@2x" transform="translate(-298.000000, -802.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-Copy-2" transform="translate(280.000000, 784.000000)">
+                <path d="M36.6554622,31 L42,31 C41.4957983,37.1 36.3529412,42 30,42 C23.6470588,42 18.5042017,37.1 18,31 L23.9495798,31 C24.3529412,31 24.6554622,30.8 24.8571429,30.4 L26.9747899,26.2 L32.1176471,36.4 C32.3193277,36.8 32.6218487,37 33.0252101,37 C33.4285714,37 33.7310924,36.8 33.9327731,36.4 L36.6554622,31 Z M23.3445378,29 L18,29 C18.5042017,22.9 23.6470588,18 30,18 C36.3529412,18 41.4957983,22.9 42,29 L36.0504202,29 C35.6470588,29 35.3445378,29.3 35.1428571,29.6 L33.0252101,33.8 L27.8823529,23.6 C27.4789916,22.9 26.3697479,22.9 26.0672269,23.6 L23.3445378,29 Z" id="icons_analytics_b"></path>
+            </g>
+        </g>
+    </g>
+</svg>
